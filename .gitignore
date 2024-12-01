@@ -1,3 +1,6 @@
 # Created by venv; see https://docs.python.org/3/library/venv.html
 .env
+<<<<<<< HEAD
 .venv
+=======
+>>>>>>> 7010bbfd6c54bcb3a0385ab092e3f05b42a6c86b
